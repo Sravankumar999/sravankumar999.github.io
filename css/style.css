@@ -1,0 +1,15 @@
+body{
+  margin: 0px;
+  background-color: #7272a2;
+}
+.banner{
+  padding: 4px 4px;
+  height: 30px;
+  border-radius: 2%;
+    
+}
+
+.site{
+  height: 100vh;
+  background-color: #a2a272;
+}
